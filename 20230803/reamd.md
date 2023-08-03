@@ -1,0 +1,1 @@
+[switch文ないよ](https://camp.trainocate.co.jp/magazine/python-switch-case/)
