@@ -3,7 +3,5 @@
 ## よく使う参考サイト
 [入力例](https://qiita.com/ell/items/1f519aff0cdc3cf16284)
 
-## 問題
-[AtCoderProblems](https://kenkoooo.com/atcoder/#/table/kazuuuuu)
-- これのA問題を１日１題解く
-- 偶にB問題もやってみる
+## 学習まとめ
+[Notion](https://acute-gallimimus-092.notion.site/AtCoder-fb1ed97a25404a588a7a20a97121d9e3?pvs=4)
